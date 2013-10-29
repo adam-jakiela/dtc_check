@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ICSNeoCSharp">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\ICSNeoCSharp.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\ICSNeoCSharp.suo">
+</Property><Property Name="Date" Value="Friday, November 21, 2008">
+</Property><Property Name="Time" Value="10:57 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ICSNeoCSharp.sln" Description="File successfully backed up as C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\Backup\ICSNeoCSharp.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ICSNeoCSharp.suo" Description="File successfully backed up as C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\Backup\ICSNeoCSharp.suo">
+</Event><Event ErrorLevel="0" Project="ICSNeoCSharp" Source="ICSNeoCSharp.csproj" Description="Project file successfully backed up as C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\Backup\ICSNeoCSharp.csproj">
+</Event><Event ErrorLevel="0" Project="ICSNeoCSharp" Source="ICSNeoCSharp.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\Backup\ICSNeoCSharp.csproj.user">
+</Event><Event ErrorLevel="0" Project="ICSNeoCSharp" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ICSNeoCSharp" Source="Form1.cs" Description="File successfully backed up as C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ICSNeoCSharp" Source="icsNeoClass.cs" Description="File successfully backed up as C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\Backup\icsNeoClass.cs">
+</Event><Event ErrorLevel="0" Project="ICSNeoCSharp" Source="App.ico" Description="File successfully backed up as C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="ICSNeoCSharp" Source="Form1.resx" Description="File successfully backed up as C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ICSNeoCSharp" Source="ICSNeoCSharp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ICSNeoCSharp" Source="ICSNeoCSharp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ICSNeoCSharp.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ICSNeoCSharp.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ICSNeoCSharp" Source="ICSNeoCSharp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

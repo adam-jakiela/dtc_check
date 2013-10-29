@@ -1,0 +1,460 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DTC Checker V1.0</name>
+    </assembly>
+    <members>
+        <member name="F:ICSNeoCSharp.Duplicates.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.Duplicates.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ICSNeoCSharp.Duplicates.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ICSNeoCSharp.DoneForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.DoneForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ICSNeoCSharp.DoneForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:ICSNeoCSharp.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="F:ICSNeoCSharp.FormAbout.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.FormAbout.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ICSNeoCSharp.FormAbout.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ICSNeoCSharp.FailedForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.FailedForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ICSNeoCSharp.FailedForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ICSNeoCSharp.PassedForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.PassedForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ICSNeoCSharp.PassedForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="F:ICSNeoCSharp.frmHoneywell.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.frmHoneywell.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ICSNeoCSharp.frmHoneywell.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="T:ICSNeoCSharp.eDATA_STATUS_BITFIELD_1">
+            <summary>
+            list of all available server types
+            </summary>
+            
+        </member>
+        <member name="T:ICSNeoCSharp.IcsNeoDll">
+            <summary>
+            Summary description for dllimports.
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.message.Data">
+            <summary>
+            Accessor string for scanned data
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.message.DTC">
+            <summary>
+            Accessor string for a string DTC list
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.message.ClearDTC">
+            <summary>
+            Accessor string for clearing the string DTC list
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.message.Result">
+            <summary>
+            Accessor string for pass fail result
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.message.LastSerialNumber">
+            <summary>
+            Accessor string for last serial number
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.message.SerialNumber">
+            <summary>
+            Accessor string for serial number
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.message.PartNumber">
+            <summary>
+            Accessor string for part number
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.message.APP">
+            <summary>
+            Accessor string for internal APP number
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.message.CAL">
+            <summary>
+            Accessor string for internal CAL number
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.message.E2P">
+            <summary>
+            Accessor string for internal E2P number
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.message.PBL">
+            <summary>
+            Accessor string for internal PBL number
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "P:ICSNeoCSharp.message.DIDF111" -->
+        <member name="P:ICSNeoCSharp.message.DIDF113">
+            <summary>
+            Accessor string for DID F113
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.message.DIDF124">
+            <summary>
+            Accessor string for DID F124
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.message.DIDF125">
+            <summary>
+            Accessor string for DID F125
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.message.DIDF188">
+            <summary>
+            Accessor string for DID F188
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.message.DTCCount">
+            <summary>
+            Accessor int for the current count of detected DTCs
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.message.DIDRequest">
+            <summary>
+            Accessor byte for current DID Requested
+            </summary>
+        </member>
+        <member name="F:ICSNeoCSharp.FormSetup.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.FormSetup.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ICSNeoCSharp.FormSetup.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.FormSetup.APP">
+            <summary>
+            Accessor string for APP
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.FormSetup.PBL">
+            <summary>
+            Accessor string for PBL
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.FormSetup.CAL">
+            <summary>
+            Accessor string for CAL
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.FormSetup.E2P">
+            <summary>
+            Accessor string for E2P
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.FormSetup.DIDF111">
+            <summary>
+            Accessor string for DID F111
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.FormSetup.DIDF124">
+            <summary>
+            Accessor string for DID F124
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.FormSetup.DIDF125">
+            <summary>
+            Accessor string for DID F125
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.FormSetup.DIDF188">
+            <summary>
+            Accessor string for DID F188
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.FormSetup.RadioType">
+            <summary>
+            Accessor string for current Radio Type Selected
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.FormSetup.LogFile">
+            <summary>
+            Accessor string for Log File
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+            
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.CreateEmptyStructure">
+            <summary>
+            Message structure for ValueCAN message
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.requestDIDs(System.String)">
+            <summary>
+            Requests DIDs from device. Must call extractDID() after to retrive the DID information.
+            </summary>
+            <param name="DID"></param>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.requestPartNumber(System.Int32)">
+            <summary>
+            Reads the part numbers from the device. Must call readPartNumber() after.
+            </summary>
+            <param name="Number"></param>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.requestDTCs">
+            <summary>
+            Gets the DTCs from the device
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.frmDTCApp_Load(System.Object,System.EventArgs)">
+            <summary>
+            Called at application start.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.connectValueCAN">
+            <summary>
+            Called at application start up to make sure valueCan is connected.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.connectHoneywell">
+            <summary>
+            Called to make sure the wireless scanner is connected to the device
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.transmitFlowControl(System.Int32)">
+            <summary>
+            Controls flow control for CAN bus. Called evertime flowControlTimer ticks.
+            </summary>
+            <param name="myArbID"></param>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.readDIDs">
+            <summary>
+            Organizes requested DID information gathed from a DID request.
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.readPartNumber">
+            <summary>
+            Organizes part number information gatherd from a part number request.
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.readDTCs">
+            <summary>
+            Organizes DTC information gatherd from a part number request.
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.closeLogFile">
+            <summary>
+            Formally closes Excel log file.
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.comPort_DataReceived(System.Object,System.EventArgs)">
+            <summary>
+            Called when the wireless scanner scans a barcode.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.extractDID">
+            <summary>
+            Puts DID in propor location on the GUI
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.extractDTC">
+            <summary>
+            Gets the DTCs and matches them with their description. 
+            Then outputs the DTCs on the GUI DTC list. 
+            Does not print off the DTCs if they are ignored or inactive.
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.extractPartNumber">
+            <summary>
+            Gets the part number from the part number data.
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.checkResults">
+            <summary>
+            Checks to see if all gatherd information matches that declared in
+            the setup form.
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.writeToExcel">
+            <summary>
+            When a device is done being scanned, This method is called to add it to the excel spread sheet.
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.commentDTCs(System.String)">
+            <summary>
+            Matches a DTC with its proper description.
+            </summary>
+            <param name="m"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.btnLogFile_Click(System.Object,System.EventArgs)">
+            <summary>
+            Click event listener for log file button. 
+            Adds scanned device to the excel file sheet.
+            DEPRECIATED METHOD
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.reset_button_Click(System.Object,System.EventArgs)">
+            <summary>
+            Click listener for reset button. Clears all forms.
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:ICSNeoCSharp.FormDTCApplication.initiateScan">
+            <summary>
+            Called to scan the device when it is found to be connected.
+            </summary>
+        </member>
+        <member name="F:ICSNeoCSharp.IgnoreForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:ICSNeoCSharp.IgnoreForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:ICSNeoCSharp.IgnoreForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="P:ICSNeoCSharp.stateMachine.Ignition">
+            <summary>
+            Accessor Ignition state.
+            </summary>
+        </member>
+    </members>
+</doc>

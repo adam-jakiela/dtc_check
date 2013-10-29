@@ -1,0 +1,202 @@
+; Installation file for Honeywell Imaging and Mobility: USB COM Port emulation Interface
+; Revision control info:
+; $Source: Source/HHPCDC/ReleaseDistribution/hhpcdc.inf $
+; $Author: RosettiJ $
+; $Revision: 1.19 $
+; $ProjectRevision: 1.11.1.5 $
+; Copyright (C) 2008 by Honeywell International Inc.
+; All rights reserved
+
+[Version]
+Signature=$CHICAGO$
+Class=Ports
+ClassGuid={4D36E978-E325-11CE-BFC1-08002BE10318}
+Provider=%MFGNAME%
+CatalogFile=hhpcdc.cat
+DriverVer=05/09/2008,1.16.0.00
+
+[ControlFlags]
+ExcludeFromSelect=*
+
+[Manufacturer]
+%MFGNAME%=DeviceList
+
+[DestinationDirs]
+DefaultDestDir=10,System32\Drivers
+StubCopyFiles=11
+VxdCopyFiles=11
+
+[SourceDisksFiles]
+hhpcdc.sys=1
+hhpcdc98.sys=1
+wdmstub.sys=1
+hhpprtno.dll=1
+
+[SourceDisksNames]
+1=%INSTDISK%,,,
+
+[DeviceList]
+%DESCRIPTION380015%=DriverInstall,USB\VID_0536&PID_010A
+%DESCRIPTION380014%=DriverInstall,USB\VID_0536&PID_012A
+%DESCRIPTION5600%=DriverInstall,USB\VID_0536&PID_016A
+%DESCRIPTION5800%=DriverInstall,USB\VID_0536&PID_018A
+; Some early 4600's had this PID but now its used solely on D9500's
+%DESCRIPTION4600%=DriverInstall,USB\VID_0536&PID_01AA
+%DESCRIPTION4800%=DriverInstall,USB\VID_0536&PID_01CA
+%DESCRIPTION4010%=DriverInstall,USB\VID_0536&PID_01EA
+%DESCRIPTION4600%=DriverInstall,USB\VID_0536&PID_020A
+%DESCRIPTION4080%=DriverInstall,USB\VID_0536&PID_022A
+%DESCRIPTION2020%=DriverInstall,USB\VID_0536&PID_026A
+%DESCRIPTION4200%=DriverInstall,USB\VID_0536&PID_028A
+%DESCRIPTIONGeneric%=DriverInstall,USB\VID_0536&PID_02AA
+%DESCRIPTIONQC890%=DriverInstall,USB\VID_0536&PID_02CA
+%DESCRIPTION3800G%=DriverInstall,USB\VID_0536&PID_02EA
+%DESCRIPTION5180%=DriverInstall,USB\VID_0536&PID_030A
+%DESCRIPTION5110%=DriverInstall,USB\VID_0536&PID_032A
+%DESCRIPTION4800G%=DriverInstall,USB\VID_0536&PID_034A
+%DESCRIPTION3800r%=DriverInstall,USB\VID_0536&PID_040A
+%DESCRIPTION3800i%=DriverInstall,USB\VID_0536&PID_042A
+%DESCRIPTION4600g%=DriverInstall,USB\VID_0536&PID_044A
+%DESCRIPTION4800i%=DriverInstall,USB\VID_0536&PID_046A
+%DESCRIPTION2020x%=DriverInstall,USB\VID_0536&PID_048A
+%DESCRIPTION4206%=DriverInstall,USB\VID_0536&PID_04AA
+%DESCRIPTION4600r%=DriverInstall,USB\VID_0536&PID_04CA
+%DESCRIPTION4800dr%=DriverInstall,USB\VID_0536&PID_04EA
+%DESCRIPTION2820%=DriverInstall,USB\VID_0536&PID_050A
+%DESCRIPTION4800P%=DriverInstall,USB\VID_0536&PID_052A
+%DESCRIPTION4810WA%=DriverInstall,USB\VID_0536&PID_054A
+%DESCRIPTION5385%=DriverInstall,USB\VID_0536&PID_056A
+
+%PORTDESC%=PortInstall,HHPCDC98\VIRTPORT
+
+;------------------------------------------------------------------------------
+;  Windows 2000/XP Sections
+;------------------------------------------------------------------------------
+
+[DriverInstall.ntx86]
+CopyFiles=DriverCopyFiles.ntx86
+AddReg=PortAddReg.ntx86
+
+[DriverCopyFiles.ntx86]
+hhpcdc.sys,,,2
+
+[DriverInstall.ntx86.Services]
+AddService=HHPCDC,2,DriverService,EventLogging
+
+[DriverService]
+ServiceType=1
+StartType=3
+ErrorControl=1
+ServiceBinary=%10%\system32\drivers\hhpcdc.sys
+
+[EventLogging]
+AddReg=EventLogAddReg
+
+[EventLogAddReg]
+HKR,,EventMessageFile,0x00020000,"%10%\System32\iologmsg.dll;%10%\system32\drivers\hhpcdc.sys"
+HKR,,TypesSupported,0x00010001,7
+
+[PortAddReg.ntx86]
+HKR,,EnumPropPages32,,"MsPorts.dll,SerialPortPropPageProvider"
+
+[DriverInstall.ntx86.hw]
+AddReg=DriverHwAddReg
+
+[DriverHwAddReg]
+
+;------------------------------------------------------------------------------
+;  Windows 98/Me Sections
+;------------------------------------------------------------------------------
+
+[DriverInstall]
+AddReg=DriverAddReg
+CopyFiles=DriverCopyFiles,StubCopyFiles
+DriverVer=05/17/2005,1.12.0.0
+
+
+[DriverCopyFiles]
+hhpcdc98.sys,,,2
+
+[DriverAddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,"wdmstub.sys,hhpcdc98.sys"
+
+[StubCopyFiles]
+wdmstub.sys,,,2
+
+[DriverInstall.HW]
+AddReg=DriverHwAddReg
+
+;------------------------------------------------------------------------------
+;  Placeholder sections for virtual port pseudo-device (Windows 98 & Me)
+;------------------------------------------------------------------------------
+
+[PortInstall]
+AddReg=PortAddReg
+CopyFiles=VxdCopyFiles
+
+[VxdCopyFiles]
+hhpstub.vxd,,,2
+hhpprtno.dll,,,2
+
+[PortAddReg]
+HKR,,DevLoader,,*vcomm
+HKR,,PortDriver,,hhpstub.vxd
+HKR,,PortSubClass,1,01
+HKR,,ConfigDialog,,serialui.dll
+HKR,,EnumPropPages,,"hhpprtno.dll,PortEnumPropPages"
+;HKR,,Enumerator,,serenum.vxd
+HKR,,DCB,3,1C,00,00,00, 80,25,00,00, 11,33,00,00, 00,00, 0a,00, 0a,00, 08, 00, 00, 11, 13, 00, 00, 00
+; DCBLength		0000001c
+; BaudRate		00002580 [9600]
+; BitMask		00003311 [fDTRFlow + fRTSFlow + fInX + fOutX + fOutXDSRFlow + fBinary]
+; Reserved		0000
+; XonLim		000a
+; XOffLim		000a
+; ByteSize		08
+; Parity		00
+; XonChar		11
+; XoffChar		13
+; ErrorChar		00
+; EofChar		00
+; EvtChar		00
+
+;------------------------------------------------------------------------------
+;  String Definitions
+;------------------------------------------------------------------------------
+
+[Strings]
+MFGNAME="Honeywell International Inc."
+INSTDISK="Honeywell International Inc. Installation Disc"
+DESCRIPTION380014="IT3800-14 Linear Imager"
+DESCRIPTION380015="IT3800-15 Linear Imager"
+DESCRIPTION5600="IT5600 Linear Imager"
+DESCRIPTION5800="IT5800 Linear Imager"
+DESCRIPTION4600="IT4600 Area Imager"
+DESCRIPTION4800="IT4800 Area Imager"
+DESCRIPTION4010="IT4010 Area Imager"
+DESCRIPTION4080="IT4080 Area Imager"
+DESCRIPTION2020="IT2020 Cordless Base"
+DESCRIPTION4200="IT4200 Area Imager"
+DESCRIPTIONGeneric="Honeywell Imager"
+DESCRIPTIONQC890="QC890 Verifier"
+DESCRIPTION3800G="3800G Linear Imager"
+DESCRIPTION5180="5180 Area Imager"
+DESCRIPTION5110="5110 Area Imager"
+DESCRIPTION4800G="4800G Area Imager"
+DESCRIPTION3800r="3800r Linear Imager" 
+DESCRIPTION3800i="3800i Linear Imager" 
+DESCRIPTION4600g="4600g 2D Imager" 
+DESCRIPTION4800i="4800i 2D Imager" 
+DESCRIPTION2020x="2020 Cordless Base" 
+DESCRIPTION4206="4206 2D Imager" 
+DESCRIPTION4600r="4600r 2D Imager" 
+DESCRIPTION4800dr="4800dr Document Reader" 
+DESCRIPTION2820="2820 Cordless Base"
+DESCRIPTION4800P="4800P 2D Imager"
+DESCRIPTION4810WA="4810WA 2D Imager"
+DESCRIPTION5385="5385 2D Imager"
+
+
+PORTDESC="Honeywell Com Port Emulation"
+

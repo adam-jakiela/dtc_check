@@ -1,0 +1,7 @@
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\IcsNeoDotNetCSharp\bin\Debug\ICSNeoCSharp.exe
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\IcsNeoDotNetCSharp\bin\Debug\ICSNeoCSharp.pdb
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\IcsNeoDotNetCSharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\IcsNeoDotNetCSharp\obj\Debug\ICSNeoCSharp.Form1.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\IcsNeoDotNetCSharp\obj\Debug\ICSNeoCSharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\IcsNeoDotNetCSharp\obj\Debug\ICSNeoCSharp.exe
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\IcsNeoDotNetCSharp\obj\Debug\ICSNeoCSharp.pdb

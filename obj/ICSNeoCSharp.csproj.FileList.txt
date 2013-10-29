@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ICSNeoCSharp.csproj.GenerateResource.Cache
+obj\Debug\DTC Checker V1.7.exe
+obj\Debug\DTC Checker V1.7.pdb
+bin\Debug\DTC Checker V1.7.exe
+bin\Debug\DTC Checker V1.7.pdb
+obj\Debug\ICSNeoCSharp.frmAbout.resources
+obj\Debug\ICSNeoCSharp.frmDTCApp.resources
+obj\Debug\ICSNeoCSharp.frmHotKeys.resources
+obj\Debug\ICSNeoCSharp.frmSetup.resources
+obj\Debug\ICSNeoCSharp.Properties.Resources.resources

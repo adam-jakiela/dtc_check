@@ -1,0 +1,43 @@
+C:\Users\Admin\Desktop\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.DeleteForm.resources
+C:\Users\Admin\Desktop\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.DoneForm.resources
+C:\Users\Admin\Desktop\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.FileDataForm.resources
+C:\Users\Admin\Desktop\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.HardwareForm.resources
+C:\Users\Admin\Desktop\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.Duplicates.resources
+C:\Users\Admin\Desktop\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.FormAbout.resources
+C:\Users\Admin\Desktop\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.FormDTCApplication.resources
+C:\Users\Admin\Desktop\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.FormSetup.resources
+C:\Users\Admin\Desktop\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.frmHoneywell.resources
+C:\Users\Admin\Desktop\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.IgnoreForm.resources
+C:\Users\Admin\Desktop\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.NewOperatorForm.resources
+C:\Users\Admin\Desktop\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.PasswordForm.resources
+C:\Users\Admin\Desktop\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.Properties.Resources.resources
+C:\Users\Admin\Desktop\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DTC Checker FINAL\bin\x86\Release\DTC Checker V1.8.1.exe.config
+C:\Users\Admin\Desktop\DTC Checker FINAL\bin\x86\Release\DTC Checker V1.8.1.exe
+C:\Users\Admin\Desktop\DTC Checker FINAL\obj\x86\Release\DTC Checker V1.8.1.exe
+C:\Users\Admin\Desktop\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.AddDTCForm.resources
+E:\DTC Checker FINAL (TRY THIS)\bin\x86\Release\DTC Checker V1.8.1.exe.config
+E:\DTC Checker FINAL (TRY THIS)\obj\x86\Release\ICSNeoCSharp.csproj.ResolveComReference.cache
+E:\DTC Checker FINAL (TRY THIS)\obj\x86\Release\DTC Checker V1.8.1.exe
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\obj\x86\Release\ICSNeoCSharp.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\bin\x86\Release\DTC Checker V2.0.exe.config
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\bin\x86\Release\DTC Checker V2.0.exe
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\obj\x86\Release\ICSNeoCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\obj\x86\Release\ICSNeoCSharp.DeleteForm.resources
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\obj\x86\Release\ICSNeoCSharp.DoneForm.resources
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\obj\x86\Release\ICSNeoCSharp.FileDataForm.resources
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\obj\x86\Release\ICSNeoCSharp.AddDTCForm.resources
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\obj\x86\Release\ICSNeoCSharp.HardwareForm.resources
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\obj\x86\Release\ICSNeoCSharp.Duplicates.resources
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\obj\x86\Release\ICSNeoCSharp.FormAbout.resources
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\obj\x86\Release\ICSNeoCSharp.FormDTCApplication.resources
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\obj\x86\Release\ICSNeoCSharp.FormSetup.resources
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\obj\x86\Release\ICSNeoCSharp.frmHoneywell.resources
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\obj\x86\Release\ICSNeoCSharp.IgnoreForm.resources
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\obj\x86\Release\ICSNeoCSharp.NewOperatorForm.resources
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\obj\x86\Release\ICSNeoCSharp.PasswordForm.resources
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\obj\x86\Release\ICSNeoCSharp.Properties.Resources.resources
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\obj\x86\Release\ICSNeoCSharp.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\FINAL FINAL FINAL\obj\x86\Release\DTC Checker V2.0.exe

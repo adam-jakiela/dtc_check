@@ -1,0 +1,145 @@
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\obj\Debug\ICSNeoCSharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\obj\Debug\ICSNeoCSharp.Properties.Resources.resources
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\obj\Debug\ICSNeoCSharp.frmDTCApp.resources
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\obj\Debug\ICSNeoCSharp.frmSetup.resources
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\obj\Release\ICSNeoCSharp.frmDTCApp.resources
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\obj\Release\ICSNeoCSharp.frmSetup.resources
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\obj\Release\ICSNeoCSharp.Properties.Resources.resources
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\obj\Release\ICSNeoCSharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\obj\Release\ICSNeoCSharp.frmHotKeys.resources
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\obj\Release\ICSNeoCSharp.frmAbout.resources
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\obj\Debug\ICSNeoCSharp.frmAbout.resources
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\obj\Debug\ICSNeoCSharp.frmHotKeys.resources
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\bin\Debug\DTC Checker V1.7.exe
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\bin\Debug\DTC Checker V1.7.pdb
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\obj\Debug\DTC Checker V1.7.exe
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\obj\Debug\DTC Checker V1.7.pdb
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\bin\Release\DTC Checker V1.7.exe
+C:\Documents and Settings\mawillia\Desktop\Visual Studio Projects\Intrepid Value Can\obj\Release\DTC Checker V1.7.exe
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\obj\Debug\ICSNeoCSharp.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\obj\Debug\ICSNeoCSharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\obj\Debug\ICSNeoCSharp.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\obj\Release\ICSNeoCSharp.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\obj\Release\ICSNeoCSharp.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\obj\Release\ICSNeoCSharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\obj\Release\ICSNeoCSharp.FormDTCApplication.resources
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\obj\Release\ICSNeoCSharp.FormAbout.resources
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\obj\Release\ICSNeoCSharp.FormSetup.resources
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\obj\Debug\ICSNeoCSharp.FormAbout.resources
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\obj\Debug\ICSNeoCSharp.FormDTCApplication.resources
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\obj\Debug\ICSNeoCSharp.FormSetup.resources
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\bin\Release\Version Checker 1.5.exe
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\obj\Release\Version Checker 1.5.exe
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\bin\Debug\Version Checker 1.6.exe
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\bin\Debug\Version Checker 1.6.pdb
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\obj\Debug\Version Checker 1.6.exe
+C:\Documents and Settings\Administrator\Desktop\USB SCANNER\Version Checker\obj\Debug\Version Checker 1.6.pdb
+E:\Version Checker Original\obj\Debug\Version Checker 1.6.exe
+C:\Documents and Settings\Administrator\Desktop\Version Checker Original Changed\obj\Debug\Version Checker 1.6.exe
+C:\Documents and Settings\Administrator\Desktop\Version Checker Original Changed\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Version Checker Original Changed\obj\Debug\ICSNeoCSharp.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Version Checker Original Changed\obj\Debug\ICSNeoCSharp.FormAbout.resources
+C:\Documents and Settings\Administrator\Desktop\Version Checker Original Changed\obj\Debug\ICSNeoCSharp.FormDTCApplication.resources
+C:\Documents and Settings\Administrator\Desktop\Version Checker Original Changed\obj\Debug\ICSNeoCSharp.FormSetup.resources
+C:\Documents and Settings\Administrator\Desktop\Version Checker Original Changed\obj\Debug\ICSNeoCSharp.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Version Checker Original Changed\obj\Debug\ICSNeoCSharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Version Checker Original Changed\bin\Debug\Version Checker 1.6.exe
+C:\Documents and Settings\Administrator\Desktop\Version Checker Original Changed\bin\Debug\Version Checker 1.6.pdb
+C:\Documents and Settings\Administrator\Desktop\Version Checker Original Changed\obj\Debug\Version Checker 1.6.pdb
+C:\Documents and Settings\Administrator\Desktop\Version Checker CURRENT\obj\Debug\Version Checker 1.6.exe
+C:\Documents and Settings\Administrator\Desktop\Version Checker CURRENT\obj\Debug\Version Checker 1.6.pdb
+C:\Documents and Settings\Administrator\Desktop\Version Checker CURRENT\bin\Debug\Version Checker 1.6.exe
+C:\Documents and Settings\Administrator\Desktop\Version Checker CURRENT\bin\Debug\Version Checker 1.6.pdb
+C:\Documents and Settings\Administrator\Desktop\Version Checker CURRENT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.FormAbout.resources
+C:\Documents and Settings\Administrator\Desktop\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.FormDTCApplication.resources
+C:\Documents and Settings\Administrator\Desktop\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.FormSetup.resources
+C:\Documents and Settings\Administrator\Desktop\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff\Version Checker CURRENT\obj\Debug\Version Checker 1.6.exe
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff\Version Checker CURRENT\obj\Debug\Version Checker 1.6.pdb
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff\Version Checker CURRENT\bin\Debug\Version Checker 1.6.exe
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff\Version Checker CURRENT\bin\Debug\Version Checker 1.6.pdb
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff\Version Checker CURRENT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.FormAbout.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.FormDTCApplication.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.FormSetup.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.FailedForm.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.Duplicates.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.PassedForm.resources
+C:\Documents and Settings\Administrator\Desktop\Matt Test\Adam Stuff ThinkPad\Version Checker CURRENT\obj\Debug\Version Checker 1.6.exe
+C:\Documents and Settings\Administrator\Desktop\Matt Test\Adam Stuff ThinkPad\Version Checker CURRENT\obj\Debug\Version Checker 1.6.pdb
+C:\Documents and Settings\Administrator\Desktop\Matt Test\Adam Stuff ThinkPad\Version Checker CURRENT\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Matt Test\Adam Stuff ThinkPad\Version Checker CURRENT\obj\Debug\Interop.CoreScanner.dll
+C:\Documents and Settings\Administrator\Desktop\Matt Test\Adam Stuff ThinkPad\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Matt Test\Adam Stuff ThinkPad\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.FailedForm.resources
+C:\Documents and Settings\Administrator\Desktop\Matt Test\Adam Stuff ThinkPad\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.Duplicates.resources
+C:\Documents and Settings\Administrator\Desktop\Matt Test\Adam Stuff ThinkPad\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.FormAbout.resources
+C:\Documents and Settings\Administrator\Desktop\Matt Test\Adam Stuff ThinkPad\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.FormDTCApplication.resources
+C:\Documents and Settings\Administrator\Desktop\Matt Test\Adam Stuff ThinkPad\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.FormSetup.resources
+C:\Documents and Settings\Administrator\Desktop\Matt Test\Adam Stuff ThinkPad\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.PassedForm.resources
+C:\Documents and Settings\Administrator\Desktop\Matt Test\Adam Stuff ThinkPad\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Matt Test\Adam Stuff ThinkPad\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Matt Test\Adam Stuff ThinkPad\Version Checker CURRENT\bin\Debug\Version Checker 1.6.exe
+C:\Documents and Settings\Administrator\Desktop\Matt Test\Adam Stuff ThinkPad\Version Checker CURRENT\bin\Debug\Version Checker 1.6.pdb
+C:\Documents and Settings\Administrator\Desktop\Matt Test\Adam Stuff ThinkPad\Version Checker CURRENT\bin\Debug\Interop.CoreScanner.dll
+C:\Documents and Settings\Administrator\Desktop\Matt Test\Adam Stuff ThinkPad\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.ScannerForm.resources
+C:\Documents and Settings\Administrator\Desktop\Matt Test\Adam Stuff ThinkPad\Version Checker CURRENT\obj\Debug\ICSNeoCSharp.frmHoneywell.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\Debug\ICSNeoCSharp.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\Debug\ICSNeoCSharp.FailedForm.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\Debug\ICSNeoCSharp.Duplicates.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\Debug\ICSNeoCSharp.FormAbout.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\Debug\ICSNeoCSharp.FormDTCApplication.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\Debug\ICSNeoCSharp.FormSetup.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\Debug\ICSNeoCSharp.frmHoneywell.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\Debug\ICSNeoCSharp.PassedForm.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\Debug\ICSNeoCSharp.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\Debug\ICSNeoCSharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\Debug\ICSNeoCSharp.DoneForm.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\bin\Debug\DTC Checker V1.0.exe
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\bin\Debug\DTC Checker V1.0.pdb
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\Debug\DTC Checker V1.0.exe
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\Debug\DTC Checker V1.0.pdb
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\Debug\ICSNeoCSharp.IgnoreForm.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\bin\Debug\DTC Checker V1.0.XML
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\bin\x64\Release\DTC Checker V1.0.exe
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x64\Release\ICSNeoCSharp.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x64\Release\ICSNeoCSharp.DoneForm.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x64\Release\ICSNeoCSharp.FailedForm.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x64\Release\ICSNeoCSharp.Duplicates.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x64\Release\ICSNeoCSharp.FormAbout.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x64\Release\ICSNeoCSharp.FormDTCApplication.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x64\Release\ICSNeoCSharp.FormSetup.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x64\Release\ICSNeoCSharp.frmHoneywell.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x64\Release\ICSNeoCSharp.IgnoreForm.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x64\Release\ICSNeoCSharp.PassedForm.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x64\Release\ICSNeoCSharp.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x64\Release\ICSNeoCSharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x64\Release\DTC Checker V1.0.exe
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.csproj.ResolveComReference.cache
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.DoneForm.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.Duplicates.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.FormAbout.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.FormDTCApplication.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.FormSetup.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.frmHoneywell.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.IgnoreForm.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.PasswordForm.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.DeleteForm.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\bin\x86\Release\DTC Checker V1.5  (x86 Architecture).exe
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x86\Release\DTC Checker V1.5  (x86 Architecture).exe
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.FileDataForm.resources
+C:\Documents and Settings\Administrator\Desktop\Adam Stuff ThinkPad\DTC Checker FINAL\obj\x86\Release\ICSNeoCSharp.NewOperatorForm.resources
